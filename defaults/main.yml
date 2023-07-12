@@ -1,4 +1,6 @@
 ---
+gitlab_server_ip: ""
+
 # for versions >= 10.x
 gitlab_runner_package_name: 'gitlab-runner'
 
